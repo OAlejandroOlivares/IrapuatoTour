@@ -1,3 +1,3 @@
 # IrapuatoTour
 
-![Screenshot][irapuatotour.png)
+![Screenshot](irapuatotour.png)
